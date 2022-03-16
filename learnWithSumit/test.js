@@ -37,4 +37,4 @@ const car = {
 
 //console.log(car.weight);
 
-console.log(car[2]);
+console.log(car[model]);
